@@ -15,9 +15,3 @@ There are four packages in the project. They are `my_robot`, `ball_chaser`, `pgm
 Added `mapping.launch` to the `my_robot` package. This launch file includes `rtabmap` node for mapping and `rtabmapviz` node for visualization of it.
 Added `teleop.launch` to control robot with teleop keys.
 
-## Example screenshot from RTAB-Map Database Viewer
-
-Shows generated 2D map and 3D loop closure example.
-[Click](https://drive.google.com/file/d/1UAO8sXR8T7Ka682SmR8dx41yo74su8Zg/view?usp=sharing) to download database file of created map.
-
-![MAP](Screenshot.png)
